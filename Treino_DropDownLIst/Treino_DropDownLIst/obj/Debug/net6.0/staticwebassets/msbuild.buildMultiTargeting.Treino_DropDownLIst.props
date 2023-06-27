@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Treino_DropDownLIst.props" />
+</Project>
